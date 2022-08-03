@@ -1,0 +1,11 @@
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:9999
+    
+}
+
+navbar-inverse-p{
+    background-color:#222;
+    border-color:#080808;
+}
